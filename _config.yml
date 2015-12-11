@@ -1,0 +1,28 @@
+name: iTechSherpa
+favicon: null
+layout_spectrum: 0.2671192118432373
+typography_spectrum: 0.949940888909623
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2534171927254647
+  lightness: 0.6925816559232771
+  saturation: 0.6064980726223439
+  rhythmicContrast: 0.6047708494588733
+purpose: []
