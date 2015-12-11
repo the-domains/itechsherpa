@@ -1,6 +1,6 @@
 name: iTechSherpa
 favicon: null
-layout_spectrum: 0.2671192118432373
+layout_spectrum: 0.50549
 typography_spectrum: 0.949940888909623
 title: 'AV, IT & more'
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#ffffff'
-    - '#babbba'
-    - '#858585'
-    - '#cf3b1c'
+    - '#fbd8a4'
+    - '#5d5e62'
+    - '#b24219'
+    - '#fb8f28'
   brandStrength: 0.2534171927254647
-  lightness: 0.6925816559232771
-  saturation: 0.6064980726223439
-  rhythmicContrast: 0.6047708494588733
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
