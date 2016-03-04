@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AV, IT & more]]></title>
         <description><![CDATA[AV, IT & more]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/itechsherpa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 01:12:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 01:18:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/itechsherpa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/itechsherpa/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">b2035850-705d-44fe-8bdd-3b4533a5241f</guid>
+            <pubDate>Fri, 04 Mar 2016 01:15:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed71bacf-6bad-4d57-ba60-b2c826283ae8.png">]]></description>
-            <link>undefined3a8558f2-d0e9-4d4a-910b-bbb390a873fc/index.html</link>
+            <link>https://thegrid.ai/itechsherpa/3a8558f2-d0e9-4d4a-910b-bbb390a873fc/index.html</link>
             <guid isPermaLink="false">3a8558f2-d0e9-4d4a-910b-bbb390a873fc</guid>
             <pubDate>Fri, 04 Mar 2016 01:09:24 GMT</pubDate>
         </item>
